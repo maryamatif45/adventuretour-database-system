@@ -1,0 +1,1 @@
+SELECT * FROM WideWorldImporters.Application.Cities;
