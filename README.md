@@ -1,6 +1,6 @@
 # Adventure Tour Database
 
-A comprehensive database system designed to organize and manage an adventure tour service, developed by Maryam Atif using Microsoft Access and SQL.
+A comprehensive database system designed to organize and manage an adventure tour service, using Microsoft Access and SQL.
 
 ## Project Overview
 
